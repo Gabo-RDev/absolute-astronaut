@@ -199,7 +199,8 @@
 			"isActive": true,
 			"description": "Clon funcional de Google Translate con React, demostrando habilidad en aplicaciones web escalables e interactivas",
 			"highlights": ["Interfaz a Google Translate", "Traducción funcional"],
-			"url": "https://clone-google-translate.netlify.app/"
+			"url": "https://clone-google-translate.netlify.app/",
+			"github": "https://github.com/ImNotGabo/google-translate-clone"
 		},
 		{
 			"name": "TODO App",
@@ -209,7 +210,8 @@
 				"Gestión eficiente del estado",
 				"Implementación con TypeScript"
 			],
-			"url": "https://todo-app-ts-plum.vercel.app/"
+			"url": "https://todo-app-ts-plum.vercel.app/",
+			"github": "https://github.com/ImNotGabo/todo-app-ts"
 		},
 		{
 			"name": "Omnifood",
@@ -220,7 +222,8 @@
 				"Contenido interactivo",
 				"Optimización para SEO"
 			],
-			"url": "https://omnifood-dr.netlify.app/"
+			"url": "https://omnifood-dr.netlify.app/",
+			"github": "https://github.com/ImNotGabo/Omnifood"
 		}
 	]
 }
